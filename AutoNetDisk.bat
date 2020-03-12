@@ -1,7 +1,7 @@
-:: è‡ªå‹•åŠ ç¶²è·¯ç›¤
+:: ¦Û°Ê¥[ºô¸ô½L
 :: Dev by Ren 2019/10/16
 @Echo off
-Echo "å¦‚éœ€è¼¸å…¥å¸³è™Ÿï¼Œæ ¼å¼ç‚ºï¼ševerspring\å·¥è™Ÿ"
+Echo "¦p»İ¿é¤J±b¸¹¡A®æ¦¡¬°¡Geverspring\¤u¸¹"
 net use o: \\ly08-file1\Pub
 net use y: \\ly08-file1\Data
 pause

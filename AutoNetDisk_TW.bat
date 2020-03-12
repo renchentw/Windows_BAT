@@ -1,7 +1,7 @@
-:: è‡ªå‹•åŠ å°åŒ—äº‘è¾°ç¶²è·¯ç›¤
+:: ¦Û°Ê¥[¥x¥_¤ª¨°ºô¸ô½L
 :: Dev by Ren 2019/11/22
 @Echo off
-Echo "å¦‚éœ€è¼¸å…¥å¸³è™Ÿï¼Œæ ¼å¼ç‚ºï¼ševerspring\å·¥è™Ÿ"
+Echo "¦p»İ¿é¤J±b¸¹¡A®æ¦¡¬°¡Geverspring\¤u¸¹"
 net use f: \\ev03-ant1\robocopy
 net use x: \\EV12-FILE\DATA
 net use z: \\DB1\DATA

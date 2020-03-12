@@ -1,5 +1,5 @@
 @echo off
-::ç”¨tasklistå¯ä»¥æŸ¥çœ‹ç¨‹å¼åç¨±
-::å»¶æ™‚å–®ä½ç‚ºå¦™
+::¥Îtasklist¥i¥H¬d¬Ýµ{¦¡¦WºÙ
+::©µ®É³æ¦ì¬°§®
 choice /t 1800 /d y /n >nul
 taskkill /f /t /im cloudmusic.exe
